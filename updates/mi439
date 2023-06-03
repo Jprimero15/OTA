@@ -2,6 +2,23 @@
   "updates": [
     {
       "date": "2023-06-03",
+      "datetime": "1685775638",
+      "filename": "aospa-topaz-unofficial-mi439-20230603-2.zip",
+      "url": "https://drive.nitijana.my.id/1:/Temporary-File-1/aospa-topaz-unofficial-mi439-20230603-2.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "e1c6f3472759dc2c54a3df787e342f62eee6c18621365b3db8d16ce670a7bb39",
+      "size": "1587247649",
+      "build_type": "Unofficial",
+      "version_code": "2",
+      "version": "Topaz",
+      "android_version": "13",
+      "android_spl": "2023-05-05",
+      "changelog_device": "Second Unofficial OTA build"
+    },
+    {
+      "date": "2023-06-03",
       "datetime": "1685772912",
       "filename": "aospa-topaz-unofficial-mi439-20230603-1.zip",
       "url": "https://drive.nitijana.my.id/1:/Temporary-File-1/aospa-topaz-unofficial-mi439-20230603-1.zip",
